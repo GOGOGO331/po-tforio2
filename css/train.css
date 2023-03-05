@@ -1,0 +1,25 @@
+.intem{
+    margin-bottom: 100px;
+  }
+main{
+  width: 30%;
+  margin: auto;
+  }
+.sabTitle{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.trainSozai{
+  margin-top: 80px;
+    margin-bottom: 100px;
+    color: #fff;
+}
+.trainSozai p{
+  padding-left: 30px;
+  padding-top: 20px;
+  font-size: 15spx;
+}
+.trainSozai h3{
+  text-align: center;
+  font-size: 30px;
+}

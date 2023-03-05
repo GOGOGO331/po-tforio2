@@ -1,0 +1,31 @@
+.intem{
+    margin-bottom: 100px;
+  }
+  .intem h3{
+    font-size: 25px;
+    text-align: center;
+  }
+  .intem p{
+    font-size: 18px;
+    margin-left: 30px;
+  }
+main{
+    color:#fff;
+  }
+.meinContents{
+  width: 30%;
+  margin: auto;
+}
+.sabTitle{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.meinContents h1{
+  text-align: center;
+}
+.sabTitle{
+  text-align: center;
+}
+.meinTitle_Sub{
+  text-align: center;
+}

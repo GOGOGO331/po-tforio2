@@ -1,0 +1,30 @@
+.meinTitle{
+    text-align:center;
+    color: #fff;
+}
+.meinContents{
+    display: flex;
+    justify-content: center;
+}
+.createrIcon{
+    margin-top: 200px;
+    margin-right: 50px;
+    width: 400px;
+    height: 400px;
+}
+.createrNeme{
+    margin-top: 200px;
+    font-size: 300%;
+    font-family:HiraKakuProN;
+    color: #fff;
+}
+.createrAbout{
+    font-size: 150%;
+    font-family: HiraMinProN-W3;
+    color: #fff;
+} 
+.createrAbout a{
+    color:#e0ebaf;
+    text-decoration: none;
+}
+
